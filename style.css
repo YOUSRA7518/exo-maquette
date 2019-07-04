@@ -1,0 +1,376 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container img {
+  height: 700px;
+  width: 90em;
+}
+
+.text {
+  color: white;
+  position: relative;
+  margin-top: -25%;
+  width: 100%;
+  margin-left: 20em;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.iphone img {
+  height: 40em;
+  width: 40em;
+  margin-left: 23em;
+  position: relative;
+  top: -10em;
+}
+
+.texte {
+  margin-top: -49%;
+  width: 100%;
+  margin-left: 20%;
+}
+
+.texte h1 {
+  position: relative;
+  top: 14em;
+  font-weight: normal;
+}
+
+.texte p {
+  position: absolute;
+  top: 55em;
+  color: grey;
+}
+
+#para {
+  margin-left: 31em;
+  margin-top: 4em;
+}
+
+.bloc1 {
+  margin-top: 70em;
+  height: 15em;
+  width: 20em;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#ff9a9e), color-stop(99%, #fecfef), to(#fecfef));
+  background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  position: relative;
+  top: -20em;
+  left: 18em;
+}
+
+.bloc1 h1 {
+  font-weight: normal;
+  margin-left: 1em;
+  color: white;
+}
+
+.bloc1 p {
+  margin-top: 1.7em;
+  margin-left: 1em;
+  font-weight: none;
+  color: white;
+}
+
+.bloc1 h4 {
+  margin-top: 4em;
+  margin-left: 5em;
+  font-weight: none;
+  color: white;
+}
+
+.bloc2 h1 {
+  font-weight: normal;
+  margin-left: 3em;
+  color: white;
+}
+
+.bloc2 p {
+  margin-top: 1.7em;
+  margin-left: 1em;
+  font-weight: none;
+  color: white;
+}
+
+.bloc2 h4 {
+  margin-top: 5em;
+  margin-left: 5em;
+  font-weight: normal;
+  color: white;
+}
+
+.bloc2 {
+  position: relative;
+  top: -35em;
+  height: 15em;
+  width: 20em;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#505285), color-stop(12%, #585e92), color-stop(25%, #65689f), color-stop(37%, #7474b0), color-stop(50%, #7e7ebb), color-stop(62%, #8389c7), color-stop(75%, #9795d4), color-stop(87%, #a2a1dc), to(#b5aee4));
+  background-image: linear-gradient(to top, #505285 0%, #585e92 12%, #65689f 25%, #7474b0 37%, #7e7ebb 50%, #8389c7 62%, #9795d4 75%, #a2a1dc 87%, #b5aee4 100%);
+  left: 38em;
+}
+
+.bloc3 {
+  position: relative;
+  top: -52.3em;
+  left: 58em;
+}
+
+.bloc3 img {
+  top: -52.4em;
+  height: 15em;
+  width: 20em;
+  left: 58em;
+}
+
+.bloc3 h1 {
+  margin-left: 3em;
+  position: relative;
+  top: 1.3em;
+  right: 2em;
+  color: white;
+  font-weight: normal;
+}
+
+#para2 {
+  position: relative;
+  top: -11em;
+  color: white;
+  font-weight: none;
+}
+
+.bloc3 h4 {
+  position: relative;
+  top: -5em;
+  color: white;
+  font-weight: none;
+  left: 5em;
+}
+
+.bloc4 {
+  position: relative;
+  top: -58.2em;
+  left: 18em;
+}
+
+.bloc4 img {
+  height: 18em;
+  width: 40em;
+}
+
+.bloc4 h1 {
+  position: relative;
+  top: 3em;
+  left: 2em;
+  color: white;
+  font-weight: normal;
+}
+
+.bloc4 p {
+  position: relative;
+  top: -11em;
+  left: 2em;
+  color: white;
+}
+
+.bloc4 h4 {
+  position: relative;
+  top: -8em;
+  left: 2em;
+  color: white;
+  font-weight: normal;
+}
+
+.bloc5 {
+  position: relative;
+  top: -78.7em;
+  height: 18em;
+  width: 20em;
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#c1dfc4), to(#deecdd));
+  background-image: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+  left: 58em;
+}
+
+.bloc5 h1 {
+  position: relative;
+  top: 1em;
+  left: 2em;
+  color: white;
+  font-weight: normal;
+}
+
+.bloc5 p {
+  position: relative;
+  top: 3em;
+  left: 2em;
+  color: white;
+}
+
+.bloc5 h4 {
+  position: relative;
+  top: 5em;
+  left: 3em;
+  color: white;
+  font-weight: normal;
+}
+
+.partie h1 {
+  position: relative;
+  top: -37em;
+  font-weight: normal;
+  left: 10em;
+}
+
+.partie1 p {
+  height: 20em;
+  width: 16em;
+  top: -68em;
+  position: relative;
+  margin-top: 3em;
+  left: 3em;
+  color: grey;
+}
+
+.partie1 h3 {
+  top: -57em;
+  position: relative;
+  left: 3em;
+  color: grey;
+}
+
+.partie2 p {
+  height: 20em;
+  width: 16em;
+  top: -89.4em;
+  position: relative;
+  left: 22em;
+  color: gray;
+}
+
+.partie2 h3 {
+  position: relative;
+  top: -78em;
+  left: 20em;
+  color: gray;
+}
+
+.partie3 p {
+  height: 20em;
+  width: 16em;
+  top: -110.7em;
+  position: relative;
+  left: 40em;
+  color: gray;
+}
+
+.partie3 h3 {
+  position: relative;
+  top: -96em;
+  left: 38em;
+  color: greY;
+}
+
+.partie4 p {
+  height: 20em;
+  width: 16em;
+  top: -132em;
+  position: relative;
+  left: 60em;
+  color: GREY;
+}
+
+.partie4 h3 {
+  position: relative;
+  top: -114em;
+  left: 55em;
+  color: grey;
+}
+
+.tipe {
+  position: relative;
+  margin-top: -27%;
+  width: 100%;
+  margin-left: 20em;
+  color: white;
+  font-weight: normal;
+  font-size: 100%;
+}
+
+.tipe p {
+  top: 2em;
+  position: relative;
+}
+
+.tipe h4 {
+  top: 5em;
+  position: relative;
+}
+
+.photo {
+  position: relative;
+  top: -130em;
+}
+
+.partie5 {
+  background-image: linear-gradient(-225deg, #dfffcd 0%, #90f9c4 48%, #39f3bb 100%);
+  height: 30em;
+  width: 90em;
+  position: relative;
+  top: -120em;
+}
+
+.partie5 h1 {
+  position: relative;
+  top: 3em;
+  left: 7em;
+  font-weight: normal;
+  color: white;
+}
+
+.bloc h3 {
+  position: relative;
+  top: 9em;
+  left: 7em;
+  font-weight: normal;
+  color: white;
+}
+
+.bloc p {
+  position: relative;
+  top: 13em;
+  left: 7em;
+  font-weight: normal;
+  color: white;
+}
+
+.bloca h3 {
+  position: relative;
+  top: 5em;
+  left: 38em;
+  font-weight: normal;
+  color: white;
+}
+
+.bloca p {
+  position: relative;
+  top: 8em;
+  left: 37em;
+  font-weight: normal;
+  color: white;
+}
+
+.blocb h3 {
+  position: relative;
+  top: 1em;
+  left: 63em;
+  font-weight: normal;
+  color: white;
+}
+
+.blocb p {
+  position: relative;
+  top: 3em;
+  left: 68em;
+  font-weight: normal;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
